@@ -21,4 +21,5 @@
     - [X]  느낀 점
     - [X]  어려웠던 점
 **캡쳐**
+![score](kakr_score.png)
 ![image](image.png)
