@@ -1,3 +1,4 @@
 *.ipynb filter=nbstripout
 *.ipynb linguist-language=Python
 *.file_extension filter=lfs diff=lfs merge=lfs -text
+*.ipynb linguist-vendored
