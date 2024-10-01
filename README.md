@@ -15,6 +15,24 @@ This section provides an overview of key AI projects completed, highlighting the
 | Regularization               | [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/)                                       | -                                                              | -                                 | L1 Regularization, L2 Regularization, Lp norm, Dropout, Batch Normalization | sklearn, pandas, numpy                            |
 | Scikit Learn                 | [wine](https://www.kaggle.com/code/cristianlapenta/wine-dataset-sklearn-machine-learning-project)   | Linear Regression, RandomForestClassifier(+Other ML models)     | -                                 | Classification, Regression, Clustering, Dimensionality reduction | sklearn, pandas                                   |
 | Unsupervised Learning        | [mnist](https://www.openml.org/search?type=data&status=active&id=554&sort=runs)                     | K-means, DBSCAN, PCA, T-SNE                                     | -                                 | -                                                             | sklearn, pandas, os, numpy                        |
+|---------------------------------------|---------|-------------------|--------------|--------|-----------|
+| Pokemon                               |         |                   |              |        |           |
+| Workflow and Model in Keras           |         |                   |              |        |           |
+| 2019 2nd ML month with KaKR           |         |                   |              |        |           |
+| Convolution 2D                        |         |                   |              |        |           |
+| Camera Sticker                        |         |                   |              |        |           |
+| Human Segmentation                    |         |                   |              |        |           |
+| Keras Tuner                           |         |                   |              |        |           |
+| Sentiment Classification              |         |                   |              |        |           |
+| Transformer Chatbot                   |         |                   |              |        |           |
+| Chatbot GPT                           |         |                   |              |        |           |
+| Korean Conversation Type Classification |       |                   |              |        |           |
+| Topic Modeling                        |         |                   |              |        |           |
+| Reuters Classification                |         |                   |              |        |           |
+| WEAT                                  |         |                   |              |        |           |
+| Word Embedding                        |         |                   |              |        |           |
+
+
 
 ## Key Projects and Skills Acquired
 
