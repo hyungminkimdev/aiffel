@@ -18,38 +18,39 @@ This section provides an overview of key AI projects completed, highlighting the
 
 ## Key Projects and Skills Acquired
 
+
 1. **Bike Sharing Demand Regression**
-   - **Skills Gained**: I developed regression models using Gradient Boosting Regressor and RandomForestClassifier to predict bike-sharing demand. This project helped me understand advanced regression techniques and how to optimize models using data analysis methods like IQR, Skewness, and Kurtosis.
-   - **Focus**: Model performance optimization and regression analysis.
+   - **Objective**: Predict bike rental demand using regression models.
+   - **Techniques**: Implemented Gradient Boosting Regressor and RandomForestClassifier. Optimized data distribution using IQR, Skewness, and Kurtosis.
 
 2. **Diabetes Regression**
-   - **Skills Gained**: I built a linear regression model to predict diabetes progression, which deepened my understanding of regression and metrics such as MSE (Mean Squared Error) for evaluating model performance.
-   - **Focus**: Linear regression and model evaluation using MSE.
+   - **Objective**: Predict diabetes progression using regression analysis.
+   - **Techniques**: Built a linear regression model and evaluated its performance using Mean Squared Error (MSE).
 
 3. **Tip Regression**
-   - **Skills Gained**: Through predicting tip amounts in restaurants, I learned how to apply Linear Regression and improve my data analysis and visualization techniques, which are essential for understanding and presenting data-driven insights.
-   - **Focus**: Regression modeling and data visualization.
+   - **Objective**: Predict restaurant tip amounts.
+   - **Techniques**: Applied Linear Regression and visualized data to better understand relationships and patterns.
 
 4. **Data Visualization (Amazon stock data)**
-   - **Skills Gained**: I mastered various data visualization techniques, including bar graphs, line graphs, scatter plots, histograms, and heatmaps, using Amazon stock data. This project enhanced my ability to communicate insights through visual representation.
-   - **Focus**: Data visualization and time series analysis.
+   - **Objective**: Visualize Amazon stock data for time series analysis.
+   - **Techniques**: Created bar graphs, line graphs, scatter plots, histograms, and heatmaps for data interpretation.
 
 5. **Evaluation Metric (Iris dataset)**
-   - **Skills Gained**: By implementing Support Vector Machine (SVM) on the Iris dataset, I learned how to evaluate model performance using metrics such as Precision, Recall, and F-score, essential for classification tasks.
-   - **Focus**: SVM implementation and model evaluation metrics.
+   - **Objective**: Perform classification on the Iris dataset and evaluate model performance.
+   - **Techniques**: Used Support Vector Machine (SVM) and evaluated results with metrics such as Precision, Recall, and F-score.
 
 6. **Preprocessing (Video Game Sales)**
-   - **Skills Gained**: This project involved cleaning and preprocessing a dataset of video game sales by handling missing data, outliers, and normalization. It strengthened my understanding of effective data preprocessing techniques, which are crucial for building accurate models.
-   - **Focus**: Data cleaning, normalization, and outlier detection.
+   - **Objective**: Clean and preprocess the video game sales dataset.
+   - **Techniques**: Managed missing data, detected outliers, and applied normalization and one-hot encoding to prepare data for analysis.
 
 7. **Regularization (Fashion MNIST)**
-   - **Skills Gained**: I learned how to prevent overfitting in machine learning models by applying L1 and L2 regularization, dropout, and batch normalization on the Fashion MNIST dataset. These techniques are vital for ensuring robust and generalizable models.
-   - **Focus**: Regularization techniques and model robustness.
+   - **Objective**: Prevent overfitting on the Fashion MNIST dataset.
+   - **Techniques**: Applied L1 and L2 regularization, dropout, and batch normalization to enhance model generalization.
 
 8. **Scikit Learn (wine dataset)**
-   - **Skills Gained**: By working on the wine dataset, I implemented multiple machine learning models, including Linear Regression and RandomForestClassifier, for tasks like classification and regression. This project provided me with experience in applying machine learning to both supervised learning and dimensionality reduction.
-   - **Focus**: Classification, regression, and dimensionality reduction using Scikit Learn.
+   - **Objective**: Implement multiple machine learning models for classification, regression, and dimensionality reduction.
+   - **Techniques**: Utilized Linear Regression, RandomForestClassifier, and other models available in Scikit Learn.
 
 9. **Unsupervised Learning (MNIST dataset)**
-   - **Skills Gained**: I applied unsupervised learning algorithms like K-means, DBSCAN, PCA, and T-SNE on the MNIST dataset, which allowed me to explore clustering and dimensionality reduction methods for large datasets.
-   - **Focus**: Unsupervised learning, clustering, and dimensionality reduction techniques.
+   - **Objective**: Perform clustering and dimensionality reduction on the MNIST dataset.
+   - **Techniques**: Applied K-means, DBSCAN, PCA, and T-SNE for unsupervised learning and visualization.
