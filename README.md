@@ -20,11 +20,11 @@ This section provides an overview of key AI projects completed, highlighting the
 | 2019 2nd ML month with KaKR        | [Kaggle 2019 ML Competition](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)            | Various ML models (XGBoost, <br> LightGBM, Neural Networks)    | Feature Engineering, Hyperparameter Tuning | Competitive leaderboard submission                      | sklearn, pandas, numpy, XGBoost, LightGBM       |
 | Convolution 2D                     | [MNIST](https://keras.io/api/datasets/mnist/)                                                 | Convolutional Neural Network (CNN)                        | Data Augmentation, Dropout                 | Achieved high accuracy in digit classification            | tensorflow, keras, matplotlib                   |
 | Camera Sticker                     | Custom Image Dataset                                                                          | Convolutional Neural Network (CNN)                        | Transfer Learning (MobileNetV2)            | Real-time camera filters using deep learning              | tensorflow, keras, OpenCV                        |
-| Human Segmentation                    |         |                   |              |        |           |
-| Keras Tuner                           |         |                   |              |        |           |
+| Human Segmentation                    | Custom image dataset | U-Net (CNN-based) | Data augmentation, Transfer Learning | Accurate human segmentation from images | TensorFlow, Keras, OpenCV |
+| Keras Tuner                           | Fashion MNIST | Convolutional Neural Network (CNN) | Hyperparameter tuning with Keras Tuner | Optimized CNN model achieving improved accuracy | TensorFlow, Keras, Keras Tuner |
 | Sentiment Classification              |         |                   |              |        |           |
 | Transformer Chatbot                   |         |                   |              |        |           |
-| Chatbot GPT                           |         |                   |              |        |           |
+| Chatbot GPT                           | Custom conversation dataset | Transformer-based model (GPT-2) | Fine-tuning, Preprocessing | Interactive chatbot capable of generating natural responses | TensorFlow, Transformers, Hugging Face |
 | Korean Conversation Type Classification |       |                   |              |        |           |
 | Topic Modeling                        |         |                   |              |        |           |
 | Reuters Classification                |         |                   |              |        |           |
@@ -90,4 +90,17 @@ This section provides an overview of key AI projects completed, highlighting the
 
 ### 14. Camera Sticker  
 - **Objective**: Create an AI-based camera filter system.  
-- **Techniques**: Used a CNN with MobileNetV2 for real-time image and video processing.  
+- **Techniques**: Used a CNN with MobileNetV2 for real-time image and video processing.
+
+### 15. Human Segmentation
+- **Objective**: Develop a deep learning model for human segmentation.
+- **Techniques**: Implemented U-Net, utilized data augmentation for improved performance, and applied transfer learning.
+
+### 16. Keras Tuner
+- **Objective**: Optimize hyperparameters for CNN models.
+- **Techniques**: Used Keras Tuner to explore optimal learning rates, number of filters, and dropout rates.
+
+### 19. Chatbot GPT
+- **Objective**: Develop a conversational AI model using GPT.
+- **Techniques**: Fine-tuned a GPT-2 model on a custom dataset, applied preprocessing techniques for better responses.
+- **Result**: Created an interactive chatbot capable of generating coherent and contextually relevant responses.
