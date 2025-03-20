@@ -36,59 +36,58 @@ This section provides an overview of key AI projects completed, highlighting the
 
 ## Key Projects and Skills Acquired
 
+### 1. Bike Sharing Demand Regression  
+- **Objective**: Predict bike rental demand using regression models.  
+- **Techniques**: Applied Gradient Boosting Regressor and RandomForestClassifier. Optimized data distribution using IQR, Skewness, and Kurtosis.  
 
-1. **Bike Sharing Demand Regression**
-   - **Objective**: Predict bike rental demand using regression models.
-   - **Techniques**: Implemented Gradient Boosting Regressor and RandomForestClassifier. Optimized data distribution using IQR, Skewness, and Kurtosis.
+### 2. Diabetes Regression  
+- **Objective**: Predict diabetes progression using regression analysis.  
+- **Techniques**: Built a Linear Regression model and evaluated performance using Mean Squared Error (MSE).  
 
-2. **Diabetes Regression**
-   - **Objective**: Predict diabetes progression using regression analysis.
-   - **Techniques**: Built a linear regression model and evaluated its performance using Mean Squared Error (MSE).
+### 3. Tip Regression  
+- **Objective**: Predict restaurant tip amounts.  
+- **Techniques**: Used Linear Regression and visualized data to analyze patterns.  
 
-3. **Tip Regression**
-   - **Objective**: Predict restaurant tip amounts.
-   - **Techniques**: Applied Linear Regression and visualized data to better understand relationships and patterns.
+### 4. Data Visualization (Amazon Stock Data)  
+- **Objective**: Visualize Amazon stock data for time series analysis.  
+- **Techniques**: Created bar graphs, line graphs, scatter plots, histograms, and heatmaps.  
 
-4. **Data Visualization (Amazon stock data)**
-   - **Objective**: Visualize Amazon stock data for time series analysis.
-   - **Techniques**: Created bar graphs, line graphs, scatter plots, histograms, and heatmaps for data interpretation.
+### 5. Evaluation Metric (Iris Dataset)  
+- **Objective**: Classify the Iris dataset and evaluate model performance.  
+- **Techniques**: Used Support Vector Machine (SVM) and evaluated results with Precision, Recall, and F-score.  
 
-5. **Evaluation Metric (Iris dataset)**
-   - **Objective**: Perform classification on the Iris dataset and evaluate model performance.
-   - **Techniques**: Used Support Vector Machine (SVM) and evaluated results with metrics such as Precision, Recall, and F-score.
+### 6. Preprocessing (Video Game Sales)  
+- **Objective**: Clean and preprocess the video game sales dataset.  
+- **Techniques**: Handled missing data, outliers, normalization, and one-hot encoding.  
 
-6. **Preprocessing (Video Game Sales)**
-   - **Objective**: Clean and preprocess the video game sales dataset.
-   - **Techniques**: Managed missing data, detected outliers, and applied normalization and one-hot encoding to prepare data for analysis.
+### 7. Regularization (Fashion MNIST)  
+- **Objective**: Prevent overfitting in deep learning models.  
+- **Techniques**: Applied L1 and L2 regularization, dropout, and batch normalization.  
 
-7. **Regularization (Fashion MNIST)**
-   - **Objective**: Prevent overfitting on the Fashion MNIST dataset.
-   - **Techniques**: Applied L1 and L2 regularization, dropout, and batch normalization to enhance model generalization.
+### 8. Scikit-Learn (Wine Dataset)  
+- **Objective**: Implement various ML models for classification, regression, and clustering.  
+- **Techniques**: Used Linear Regression, RandomForestClassifier, and other Scikit-Learn models.  
 
-8. **Scikit Learn (wine dataset)**
-   - **Objective**: Implement multiple machine learning models for classification, regression, and dimensionality reduction.
-   - **Techniques**: Utilized Linear Regression, RandomForestClassifier, and other models available in Scikit Learn.
+### 9. Unsupervised Learning (MNIST Dataset)  
+- **Objective**: Perform clustering and dimensionality reduction on handwritten digits.  
+- **Techniques**: Applied K-means, DBSCAN, PCA, and T-SNE for feature extraction.  
 
-9. **Unsupervised Learning (MNIST dataset)**
-   - **Objective**: Perform clustering and dimensionality reduction on the MNIST dataset.
-   - **Techniques**: Applied K-means, DBSCAN, PCA, and T-SNE for unsupervised learning and visualization.
+### 10. Pokemon EDA  
+- **Objective**: Conduct Exploratory Data Analysis (EDA) on the Pokemon dataset.  
+- **Techniques**: Cleaned data, performed statistical analysis, and visualized attributes.  
 
-10. **Pokemon EDA**
-   - **Objective**: Perform Exploratory Data Analysis (EDA) on the Pokemon dataset.
-   - **Techniques**: Cleaned data, performed statistical analysis, and visualized various attributes of Pokemon to gain insights.
+### 11. Workflow and Model in Keras  
+- **Objective**: Build and optimize deep learning models using Keras.  
+- **Techniques**: Implemented Sequential and Functional API architectures.  
 
-11. **Workflow and Model in Keras**
-   - **Objective**: Learn how to build and structure models using Keras Sequential and Functional API.
-   - **Techniques**: Implemented various model architectures and compared their performance.
+### 12. 2019 2nd ML Month with KaKR  
+- **Objective**: Compete in Kaggle’s ML competition and improve leaderboard ranking.  
+- **Techniques**: Used XGBoost, LightGBM, and Neural Networks with feature engineering and hyperparameter tuning.  
 
-12. **2019 2nd ML Month with KaKR**
-   - **Objective**: Participate in Kaggle’s ML competition and improve ranking on the leaderboard.
-   - **Techniques**: Implemented multiple ML models, performed feature engineering, and fine-tuned hyperparameters for optimal performance.
+### 13. Convolution 2D  
+- **Objective**: Develop a CNN for digit classification using MNIST.  
+- **Techniques**: Applied Conv2D, MaxPooling, Dense layers, and data augmentation.  
 
-13. **Convolution 2D**
-   - **Objective**: Build a CNN model for image classification using the MNIST dataset.
-   - **Techniques**: Designed a deep learning architecture using Conv2D, MaxPooling, and Dense layers, and applied data augmentation techniques to improve generalization.
-
-14. **Camera Sticker**
-   - **Objective**: Develop an AI-based camera filter system using deep learning.
-   - **Techniques**: Implemented a CNN model with transfer learning using MobileNetV2 to apply real-time stickers to images and videos.
+### 14. Camera Sticker  
+- **Objective**: Create an AI-based camera filter system.  
+- **Techniques**: Used a CNN with MobileNetV2 for real-time image and video processing.  
