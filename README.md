@@ -1,13 +1,12 @@
 # AI Projects at AIFFEL
 ## About AIFFEL Academy (Modulabs)
+> **Program Duration:** May 2024 - August 2024
 
-This repository contains projects completed during my time at AIFFEL Academy, a leading AI education program by Modulabs in South Korea. The program focuses on practical, project-based learning of AI and machine learning technologies through hands-on implementation.
+- This repository contains projects completed during my time at AIFFEL Academy, a leading AI education program by Modulabs in South Korea. The program focuses on practical, project-based learning of AI and machine learning technologies through hands-on implementation.
 
-**Program Duration:** May 2024 - August 2024
+- AIFFEL (AI For Everyone Learning) provides a comprehensive curriculum covering fundamental to advanced topics in artificial intelligence, with an emphasis on practical implementation rather than just theory. The program is designed to develop both technical skills and problem-solving abilities through real-world projects.
 
-AIFFEL (AI For Everyone Learning) provides a comprehensive curriculum covering fundamental to advanced topics in artificial intelligence, with an emphasis on practical implementation rather than just theory. The program is designed to develop both technical skills and problem-solving abilities through real-world projects.
-
-The projects in this repository demonstrate a progression from basic machine learning concepts to advanced deep learning applications, reflecting the structure and depth of the AIFFEL curriculum.
+- The projects in this repository demonstrate a progression from basic machine learning concepts to advanced deep learning applications, reflecting the structure and depth of the AIFFEL curriculum.
 
 ## Core Technology Stack
 
