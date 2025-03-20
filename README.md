@@ -22,10 +22,10 @@ This section provides an overview of key AI projects completed, highlighting the
 | Camera Sticker                     | Custom Image Dataset                                                                          | Convolutional Neural Network (CNN)                        | Transfer Learning (MobileNetV2)            | Real-time camera filters using deep learning              | tensorflow, keras, OpenCV                        |
 | Human Segmentation                    | Custom image dataset | U-Net (CNN-based) | Data augmentation, Transfer Learning | Accurate human segmentation from images | TensorFlow, Keras, OpenCV |
 | Keras Tuner                           | Fashion MNIST | Convolutional Neural Network (CNN) | Hyperparameter tuning with Keras Tuner | Optimized CNN model achieving improved accuracy | TensorFlow, Keras, Keras Tuner |
-| Sentiment Classification              |         |                   |              |        |           |
-| Transformer Chatbot                   |         |                   |              |        |           |
+| Sentiment Classification               | [Naver Movie Review](https://github.com/e9t/nsmc)                        | LSTM, GRU, KoBERT                               | Tokenization, Embedding, Fine-tuning | High accuracy in sentiment classification    | TensorFlow, PyTorch, Transformers, KoBERT |
+| Transformer Chatbot                     | Custom Conversation Dataset                                             | Transformer-based Model (Seq2Seq, BERT)         | Preprocessing, Fine-tuning         | Natural language conversation chatbot        | TensorFlow, Transformers, Hugging Face     |
 | Chatbot GPT                           | Custom conversation dataset | Transformer-based model (GPT-2) | Fine-tuning, Preprocessing | Interactive chatbot capable of generating natural responses | TensorFlow, Transformers, Hugging Face |
-| Korean Conversation Type Classification |       |                   |              |        |           |
+| Korean Conversation Type Classification | Custom Korean Dialogue Dataset                                          | LSTM, GRU, KoBERT                              | Data Augmentation, Embedding Tuning | Accurate classification of conversation types | TensorFlow, PyTorch, KoBERT, Scikit-learn  |
 | Topic Modeling                        |         |                   |              |        |           |
 | Reuters Classification                |         |                   |              |        |           |
 | WEAT                                  |         |                   |              |        |           |
@@ -100,7 +100,20 @@ This section provides an overview of key AI projects completed, highlighting the
 - **Objective**: Optimize hyperparameters for CNN models.
 - **Techniques**: Used Keras Tuner to explore optimal learning rates, number of filters, and dropout rates.
 
+### 17. Sentiment Classification  
+- **Objective**: Classify movie reviews as positive or negative.  
+- **Techniques**: Used LSTM, GRU, and KoBERT for sentiment analysis. Applied tokenization, embedding, and fine-tuning strategies.  
+
+### 18. Transformer Chatbot  
+- **Objective**: Develop a chatbot capable of generating natural conversations.  
+- **Techniques**: Implemented Transformer-based sequence-to-sequence and BERT models. Applied preprocessing and fine-tuning techniques.  
+
 ### 19. Chatbot GPT
 - **Objective**: Develop a conversational AI model using GPT.
 - **Techniques**: Fine-tuned a GPT-2 model on a custom dataset, applied preprocessing techniques for better responses.
 - **Result**: Created an interactive chatbot capable of generating coherent and contextually relevant responses.
+
+### 20. Korean Conversation Type Classification  
+- **Objective**: Classify types of conversations in Korean dialogue datasets.  
+- **Techniques**: Used LSTM, GRU, and KoBERT for classification. Optimized performance using data augmentation and embedding tuning.  
+
