@@ -74,21 +74,21 @@ This section provides an overview of key AI projects completed, highlighting the
    - **Techniques**: Applied K-means, DBSCAN, PCA, and T-SNE for unsupervised learning and visualization.
 
 10. **Pokemon EDA**  
-- **Objective**: Perform Exploratory Data Analysis (EDA) on the Pokemon dataset.  
-- **Techniques**: Cleaned data, performed statistical analysis, and visualized various attributes of Pokemon to gain insights.  
+   - **Objective**: Perform Exploratory Data Analysis (EDA) on the Pokemon dataset.  
+   - **Techniques**: Cleaned data, performed statistical analysis, and visualized various attributes of Pokemon to gain insights.  
 
 11. **Workflow and Model in Keras**  
-- **Objective**: Learn how to build and structure models using Keras Sequential and Functional API.  
-- **Techniques**: Implemented various model architectures and compared their performance.  
+   - **Objective**: Learn how to build and structure models using Keras Sequential and Functional API.  
+   - **Techniques**: Implemented various model architectures and compared their performance.  
 
 12. **2019 2nd ML Month with KaKR**  
-- **Objective**: Participate in Kaggle’s ML competition and improve ranking on the leaderboard.  
-- **Techniques**: Implemented multiple ML models, performed feature engineering, and fine-tuned hyperparameters for optimal performance.  
+   - **Objective**: Participate in Kaggle’s ML competition and improve ranking on the leaderboard.  
+   - **Techniques**: Implemented multiple ML models, performed feature engineering, and fine-tuned hyperparameters for optimal performance.  
 
 13. **Convolution 2D**  
-- **Objective**: Build a CNN model for image classification using the MNIST dataset.  
-- **Techniques**: Designed a deep learning architecture using Conv2D, MaxPooling, and Dense layers, and applied data augmentation techniques to improve generalization.  
+   - **Objective**: Build a CNN model for image classification using the MNIST dataset.  
+   - **Techniques**: Designed a deep learning architecture using Conv2D, MaxPooling, and Dense layers, and applied data augmentation techniques to improve generalization.  
 
 14. **Camera Sticker**  
-- **Objective**: Develop an AI-based camera filter system using deep learning.  
-- **Techniques**: Implemented a CNN model with transfer learning using MobileNetV2 to apply real-time stickers to images and videos.  
+   - **Objective**: Develop an AI-based camera filter system using deep learning.  
+   - **Techniques**: Implemented a CNN model with transfer learning using MobileNetV2 to apply real-time stickers to images and videos.  
