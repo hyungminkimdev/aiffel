@@ -1,8 +1,55 @@
 # AI Projects at AIFFEL
+## About AIFFEL Academy (Modulabs)
 
-This section provides an overview of key AI projects completed, highlighting the machine learning models, data preprocessing techniques, and optimization methods used throughout the learning process.
+This repository contains projects completed during my time at AIFFEL Academy, a leading AI education program by Modulabs in South Korea. The program focuses on practical, project-based learning of AI and machine learning technologies through hands-on implementation.
+
+**Program Duration:** May 2024 - August 2024
+
+AIFFEL (AI For Everyone Learning) provides a comprehensive curriculum covering fundamental to advanced topics in artificial intelligence, with an emphasis on practical implementation rather than just theory. The program is designed to develop both technical skills and problem-solving abilities through real-world projects.
+
+The projects in this repository demonstrate a progression from basic machine learning concepts to advanced deep learning applications, reflecting the structure and depth of the AIFFEL curriculum.
+
+## Core Technology Stack
+
+<div align="center">
+  
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Models & Algorithms
+![CNN](https://img.shields.io/badge/CNN-3366CC?style=for-the-badge)
+![RNN/LSTM](https://img.shields.io/badge/RNN/LSTM-9146FF?style=for-the-badge)
+![Transformer](https://img.shields.io/badge/Transformer-7B68EE?style=for-the-badge)
+![GBM/XGBoost](https://img.shields.io/badge/GBM/XGBoost-4285F4?style=for-the-badge)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-00B265?style=for-the-badge)
+  
+</div>
+
+## Technical Skills Summary
+
+### Machine Learning Algorithms
+- **Supervised Learning**: Linear Regression, Logistic Regression, SVM, Random Forest, Gradient Boosting (XGBoost, LightGBM)
+- **Unsupervised Learning**: K-means Clustering, DBSCAN, PCA, t-SNE, LDA Topic Modeling
+- **Optimization Techniques**: Regularization (L1/L2), Cross-validation, Hyperparameter Tuning
+
+### Deep Learning Architectures
+- **Computer Vision**: CNN, U-Net, MobileNetV2 (Transfer Learning)
+- **Natural Language Processing**: LSTM, GRU, Transformer, BERT, GPT-2
+- **Embedding Techniques**: Word2Vec, GloVe, FastText, Sentiment Analysis
+
+### Data Pipeline
+- **Preprocessing Techniques**: IQR-based Outlier Removal, Normalization, One-Hot Encoding, Data Augmentation
+- **Feature Engineering**: Scaling, Dimensionality Reduction, Feature Selection, Text Vectorization (TF-IDF, CountVectorizer)
+- **Evaluation Metrics**: Precision, Recall, F1-score, MSE, R-squared, Confusion Matrix
+
 
 ## Projects Overview Table
+This section provides an overview of key AI projects completed, highlighting the machine learning models, data preprocessing techniques, and optimization methods used throughout the learning process.  
 
 | Name                        | Dataset                                                                                 | Model & Algorithm                        | Optimization               | Result                                         | Libraries                                         |
 |-----------------------------|-----------------------------------------------------------------------------------------|------------------------------------------|----------------------------|------------------------------------------------|---------------------------------------------------|
@@ -29,8 +76,7 @@ This section provides an overview of key AI projects completed, highlighting the
 | Topic Modeling                        | [20 Newsgroups](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) | Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF) | TF-IDF, CountVectorizer | Identified key topics from document corpus | sklearn, pandas, numpy, matplotlib, seaborn |
 | Reuters Classification                | [Reuters-21578](https://www.nltk.org/book/ch02.html) | Naive Bayes, Logistic Regression, SVM | TF-IDF, Stopword Removal, Lemmatization | Classified news articles into predefined categories | sklearn, nltk, pandas, numpy, seaborn |
 | WEAT                                  | [WEAT Benchmark](https://github.com/W4ngatang/sent-bias) | Word Embedding Association Test (WEAT) | Word2Vec, GloVe, FastText | Measured bias in word embeddings | gensim, numpy, scipy, sklearn |
-| Word Embedding                        |         |                   |              |        |           |
-
+| Word Embedding                        | [NLTK ABC Corpus](https://www.nltk.org/nltk_data/)                                   | Word2Vec, FastText, GloVe                 | Vector size, Window size, Skip-gram/CBOW | Semantic word similarity, Out-of-vocabulary word handling | konlpy, gensim, tensorflow, nltk                   |
 
 
 
@@ -128,3 +174,7 @@ This section provides an overview of key AI projects completed, highlighting the
 ### 23. WEAT (Word Embedding Association Test)  
 - **Objective**: Measure and analyze bias in word embeddings.  
 - **Techniques**: Utilized pre-trained Word2Vec and GloVe models with the WEAT statistical test to quantify biases.  
+
+### 24. Word Embedding
+- **Objective**: Implement and evaluate different word embedding techniques.
+- **Techniques**: Used Word2Vec, FastText, and GloVe models to generate vector representations of text. Applied these embeddings to analyze semantic relationships between words.
