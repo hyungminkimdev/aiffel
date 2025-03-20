@@ -26,9 +26,9 @@ This section provides an overview of key AI projects completed, highlighting the
 | Transformer Chatbot                     | Custom Conversation Dataset                                             | Transformer-based Model (Seq2Seq, BERT)         | Preprocessing, Fine-tuning         | Natural language conversation chatbot        | TensorFlow, Transformers, Hugging Face     |
 | Chatbot GPT                           | Custom conversation dataset | Transformer-based model (GPT-2) | Fine-tuning, Preprocessing | Interactive chatbot capable of generating natural responses | TensorFlow, Transformers, Hugging Face |
 | Korean Conversation Type Classification | Custom Korean Dialogue Dataset                                          | LSTM, GRU, KoBERT                              | Data Augmentation, Embedding Tuning | Accurate classification of conversation types | TensorFlow, PyTorch, KoBERT, Scikit-learn  |
-| Topic Modeling                        |         |                   |              |        |           |
-| Reuters Classification                |         |                   |              |        |           |
-| WEAT                                  |         |                   |              |        |           |
+| Topic Modeling                        | [20 Newsgroups](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) | Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF) | TF-IDF, CountVectorizer | Identified key topics from document corpus | sklearn, pandas, numpy, matplotlib, seaborn |
+| Reuters Classification                | [Reuters-21578](https://www.nltk.org/book/ch02.html) | Naive Bayes, Logistic Regression, SVM | TF-IDF, Stopword Removal, Lemmatization | Classified news articles into predefined categories | sklearn, nltk, pandas, numpy, seaborn |
+| WEAT                                  | [WEAT Benchmark](https://github.com/W4ngatang/sent-bias) | Word Embedding Association Test (WEAT) | Word2Vec, GloVe, FastText | Measured bias in word embeddings | gensim, numpy, scipy, sklearn |
 | Word Embedding                        |         |                   |              |        |           |
 
 
@@ -117,3 +117,14 @@ This section provides an overview of key AI projects completed, highlighting the
 - **Objective**: Classify types of conversations in Korean dialogue datasets.  
 - **Techniques**: Used LSTM, GRU, and KoBERT for classification. Optimized performance using data augmentation and embedding tuning.  
 
+### 21. Topic Modeling  
+- **Objective**: Discover hidden topics within a collection of text documents.  
+- **Techniques**: Applied Latent Dirichlet Allocation (LDA) with hyperparameter tuning to optimize topic coherence.  
+
+### 22. Reuters Classification  
+- **Objective**: Classify Reuters news articles into predefined categories.  
+- **Techniques**: Used Naive Bayes and SVM with TF-IDF vectorization and hyperparameter tuning for improved accuracy.  
+
+### 23. WEAT (Word Embedding Association Test)  
+- **Objective**: Measure and analyze bias in word embeddings.  
+- **Techniques**: Utilized pre-trained Word2Vec and GloVe models with the WEAT statistical test to quantify biases.  
